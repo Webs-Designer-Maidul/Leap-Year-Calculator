@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
@@ -17,4 +17,4 @@ Designed by<h3>Maidul</h3>
 <p id="aa"> @ copyright : protected</p>
 </body>
 </div>
-</html>
+
